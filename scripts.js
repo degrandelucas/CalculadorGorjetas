@@ -15,12 +15,12 @@ function calculateTips(event) {
   let CountTotal = bill * service;
   CountTotal = CountTotal.toFixed(2);
   document.getElementById("Tip").innerHTML = CountTotal;
-  document.getElementById("Tip").style.display = "block";
+  document.getElementById("Tip").style.display = "inline-block";
 
   let TipsDiv = CountTotal / numberpeople;
   TipsDiv = TipsDiv.toFixed(2);
   document.getElementById("TipDiv").innerHTML = TipsDiv;
-  document.getElementById("TipDiv").style.display = "block";
+  document.getElementById("TipDiv").style.display = "inline-block";
 }
 
 document.getElementById("TipsTotal").style.display = "none";
