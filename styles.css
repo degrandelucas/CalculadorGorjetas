@@ -82,12 +82,26 @@ body {
 
 #TipsTotal {
   text-align: center;
-  font-size: 17px;
+  font-size: 16px;
   padding-top: 2px;
+}
+
+#Tip {
+  text-align: center;
+  font-size: 16px;
+  padding-top: 2px;
+  display: inline-block;
 }
 
 #eachpeople {
   text-align: center;
-  font-size: 17px;
+  font-size: 16px;
   padding-top: 5px;
+}
+
+#TipDiv {
+  text-align: center;
+  font-size: 16px;
+  padding-top: 5px;
+  display: inline-block;
 }
