@@ -1,6 +1,5 @@
 function calculateTips(event) {
   event.preventDefault();
-
   let bill = document
     .getElementById("bill")
     .value.replace(/[.]/g, "")
