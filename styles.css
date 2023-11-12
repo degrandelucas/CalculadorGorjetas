@@ -79,6 +79,11 @@ body {
   padding-bottom: 0.2rem;
 }
 
+.FormInput:focus {
+  border: 0.2rem solid var(--primary-color);
+  outline: none;
+}
+
 .FormSubmit {
   text-transform: uppercase;
   font-weight: 600;
