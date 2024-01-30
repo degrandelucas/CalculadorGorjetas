@@ -1,6 +1,6 @@
-# Calculador de Gorjetas
+# Calculadora de Gorjetas
 
-Este é um projeto de calculadora de gorjetas desenvolvido para calcular a gorjeta apropriada com base no valor total da conta, na qualidade do serviço e no número de pessoas que vão dividir a conta. O projeto foi desenvolvido por Lucas Degrande.
+Este é um projeto de calculadora de gorjetas desenvolvido para calcular a gorjeta apropriada com base no valor total da conta, na qualidade do serviço e no número de pessoas que vão dividir a conta. 
 
 ## Funcionalidades Principais
 
@@ -18,4 +18,4 @@ Este é um projeto de calculadora de gorjetas desenvolvido para calcular a gorje
 
 ## Autor
 
-- **Lucas Degrande** - [GitHub]([https://github.com/seu-usuario](https://github.com/degrandelucas)) - [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/lucasdegrande/)https://www.linkedin.com/in/lucasdegrande/)
+- **Lucas Degrande** - [GitHub](https://github.com/degrandelucas) - [LinkedIn](https://www.linkedin.com/in/lucasdegrande/)
