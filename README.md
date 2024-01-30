@@ -16,6 +16,10 @@ Este é um projeto de calculadora de gorjetas desenvolvido para calcular a gorje
 - **jQuery:** Utilizado para simplificar a manipulação do DOM e realizar operações assíncronas de forma eficiente.
 - **jQuery Mask Plugin:** Utilizado para aplicar máscaras de entrada nos campos numéricos, garantindo uma entrada de dados consistente e formatada.
 
+## Live site
+
+Você pode visitar o projeto pelo link: [Calculadora de Gorjetas](https://degrandelucas.github.io/CalculadorGorjetas/)
+
 ## Autor
 
 - **Lucas Degrande** - [GitHub](https://github.com/degrandelucas) - [LinkedIn](https://www.linkedin.com/in/lucasdegrande/)
